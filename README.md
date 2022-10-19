@@ -4,7 +4,7 @@
 
 ### TODO
 
-- [ ] Make the single player version
+- [x] Make the single player version
 - [ ] Make the multiplayer version
 
 The multiplayer version would have some more intricacies... Stay tuned
@@ -20,4 +20,5 @@ or
 ```js
 npm start
 ```
+
 # tic-tac-toe-single-player
